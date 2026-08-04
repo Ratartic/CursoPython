@@ -1,1 +1,1 @@
-Estou estudando __Python__ pelos cursos do Curso Em Vídeo
+Estou estudando __Python__ pelos cursos do __Curso Em Vídeo__
