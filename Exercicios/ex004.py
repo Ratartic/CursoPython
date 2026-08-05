@@ -1,0 +1,11 @@
+entr = input('Digite algo: ')
+
+print('Tipo Primitivo = ', type(entr))
+print('É númerico? = ', entr.isnumeric())
+print('É alfabético? = ', entr.isalpha())
+print('É alfanúmerico? = ', entr.isalnum())
+print('É só letra maiuscula?', entr.isupper())
+print('É só letra minuscula? = ', entr.islower())
+print('É possível escrever? = ', entr.isprintable())
+print('Só tem espaços? = ', entr.isspace())
+print('Está só com a primeira letra em maiuscúlo? = ', entr.istitle())
